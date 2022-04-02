@@ -1,0 +1,19 @@
+
+
+Reverse String: 
+
+MBA BBA ABC HEBA 
+ABC CSBA CEBA PCMB 
+CEBA ABC UTH 
+MCA BCA ABC 
+ACB AB ABC 
+
+
+Union: 
+
+ABC BCA MCA AB CSBA UTH PCMB BBA ACB MBA HEBA CEBA 
+
+
+Intersection: 
+
+ABC 
